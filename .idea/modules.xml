@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/beauty_web.iml" filepath="$PROJECT_DIR$/.idea/beauty_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.hzh.beauty.api/com.hzh.beauty.api.iml" filepath="$PROJECT_DIR$/com.hzh.beauty.api/com.hzh.beauty.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.hzh.beauty.common/com.hzh.beauty.common.iml" filepath="$PROJECT_DIR$/com.hzh.beauty.common/com.hzh.beauty.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.hzh.beauty.source/com.hzh.beauty.source.iml" filepath="$PROJECT_DIR$/com.hzh.beauty.source/com.hzh.beauty.source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.hzh.beauty.user/com.hzh.beauty.user.iml" filepath="$PROJECT_DIR$/com.hzh.beauty.user/com.hzh.beauty.user.iml" />
+    </modules>
+  </component>
+</project>
